@@ -73,7 +73,8 @@ All experiments are controlled via the first cell of each notebook.
    - `02_surrogate.ipynb`
    - `03_reduced_problem.ipynb`
 
-Expected runtime: ~30 minutes (depending on configuration).
+Expected runtime: ~30 minutes (depending on configuration).  
+
 ⚠️ **Gurobi License Required**
 
 `gurobipy` is **not included in `requirements.txt`** because it cannot be installed via pip.  
