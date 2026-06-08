@@ -50,17 +50,17 @@ All experiments are controlled via the first cell of each notebook.
 ---
 
 ## 📁 Repository Structure
-├── 01_dense_problem.ipynb
-├── 02_surrogate.ipynb
-├── 03_reduced_problem.ipynb
-├── utils/
-│ ├── solver_utils.py # Gurobi logging & metrics
-│ └── time_clusters.py # time aggregation
-├── data/ # input data
-├── surrogates_individual/ # variable sets reduced by surrogates & performance
-├── logs/ # solver logs
-├── requirements.txt
-└── README.md
+├── 01_dense_problem.ipynb  
+├── 02_surrogate.ipynb  
+├── 03_reduced_problem.ipynb  
+├── utils/  
+│ ├── solver_utils.py # Gurobi logging & metrics  
+│ └── time_clusters.py # time aggregation  
+├── data/ # input data  
+├── surrogates_individual/ # variable sets reduced by surrogates & performance  
+├── logs/ # solver logs  
+├── requirements.txt  
+└── README.md  
 
 ---
 
